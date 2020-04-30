@@ -1,0 +1,141 @@
+{
+    "menu": [
+        {
+            "kategori"  : "<b>foods</b>",
+            "nama"      : "Carbonara",
+            "deskripsi" : "Carbonara merupakan makanan pasta itali yang berasal dari Roma.",
+            "harga"     : 45000,
+            "gambar"    : "car.jpg"
+        },
+
+        {
+            "kategori"  : "<b>foods</b>",
+            "nama"      : "Macaroni Schotel",
+            "deskripsi" : "Macaroni Schotel merupakan makanan dari itali yang berbahan dasar makaroni.",
+            "harga"     : 33000,
+            "gambar"    : "mac.jpg"
+        },
+        {
+            "kategori"  : "<b>foods</b>",
+            "nama"      : "Dory Fish Fillet",
+            "deskripsi" : "Soto Betawi merupakan soto yang populer di daerah Jakarta.",
+            "harga"     : 39000,
+            "gambar"    : "dory2.jpg"
+        },
+
+        {
+            "kategori"  : "<b>foods</b>",
+            "nama"      : "Black Pepper Chicken",
+            "deskripsi" : "Ayam Tumis dengan ditambahkan lada hitam ini merupakan makanan dari China.",
+            "harga"     : 43000,
+            "gambar"    : "chick.jpg"
+        },
+
+        {
+            "kategori"  : "<b>foods</b>",
+            "nama"      : "Kimchi Fried Rice",
+            "deskripsi" : "Kimchi Fried Rice bahan utama nya nasi dan kimchi. Makanan ini sangat terkenal.",
+            "harga"     : 40000,
+            "gambar"    : "kim.jpg"
+        },
+
+        {
+            "kategori"  : "<b>beverages</b>",
+            "nama"      : "Chocolate Milk Shake",
+            "deskripsi" : "Chocolate Milk Shake dengan topping chocolate bar dan chocolate powder.",
+            "harga"     : 20000,
+            "gambar"    : "ms.jpg"
+        },
+        {
+            "kategori"  : "<b>foods</b>",
+            "nama"      : "Ramen",
+            "deskripsi" : "Ramen adalah makanan yang sangat terkenal dari Jepang.",
+            "harga"     : 29000,
+            "gambar"    : "ramen.jpg"
+        },
+        {
+            "kategori"  : "<b>beverages</b>",
+            "nama"      : "Thai Tea",
+            "deskripsi" : "Thai Tea ini berasal dari Thailand dengan rasa yang sangat khas.",
+            "harga"     : 17000,
+            "gambar"    : "tea.jpg"
+        },
+        {
+            "kategori"  : "<b>beverages</b>",
+            "nama"      : "Ice Lemon Tea",
+            "deskripsi" : "Teh yang dicampur dengan perasan lemon dan juga cream milk.",
+            "harga"     : 15000,
+            "gambar"    : "lemon.jpg"
+        },
+
+        {
+            "kategori"  : "<b>beverages</b>",
+            "nama"      : "Green Tea Matcha",
+            "deskripsi" : "Minuman ini adalah minuman yang terbuat dari teh hijau ",
+            "harga"     : 17000,
+            "gambar"    : "green.jpg"
+        },
+
+        {
+            "kategori"  : "<b>beverages</b>",
+            "nama"      : "Orange Juice",
+            "deskripsi" : "Orange Juice denga rasa yang kaya juga sehat.",
+            "harga"     : 15000,
+            "gambar"    : "orange.jpg"
+        },
+        {
+            "kategori"  : "<b>beverages</b>",
+            "nama"      : "Caffè Latte",
+            "deskripsi" : "Caffè Latte adalah espresso atau kopi yang dicampur dengan susu.",
+            "harga"     : 23000,
+            "gambar"    : "coffee.jpg"
+        },
+
+        {
+            "kategori"  : "<b>desserts</b>",
+            "nama"      : "Ice Cream Gelato",
+            "deskripsi" : "Dengan teksturnya yang lembut, Ice cream dari Itali ini sangat disukai banyak orang.",
+            "harga"     : 17000,
+            "gambar"    : "gelato.jpg"
+        },
+
+        {
+            "kategori"  : "<b>desserts</b>",
+            "nama"      : "Lemon Mochi",
+            "deskripsi" : "Makanan dengan campuran lemon yang kawaii ini berasal dari Jepang.",
+            "harga"     : 13000,
+            "gambar"    : "mochi.jpg"
+        },
+        {
+            "kategori"  : "<b>desserts</b>",
+            "nama"      : "Banoffee pie",
+            "deskripsi" : "Banoffee pie berasal dari Inggris terbuat dari pisang, krim, gula, dan coklat / kopi.",
+            "harga"     : 23000,
+            "gambar"    : "pie.jpg"
+        },
+
+        {
+            "kategori"  : "<b>foods</b>",
+            "nama"      : "Sushi",
+            "deskripsi" : "Sushi adalah hidangan Jepang dari beras cuka yang disiapkan.",
+            "harga"     : 44000,
+            "gambar"    : "shushi.jpg"
+        },
+
+        {
+            "kategori"  : "<b>foods</b>",
+            "nama"      : "Korean Beef Bulgogi",
+            "deskripsi" : "Makanan ini adalah irisan dari daging sapi yang dipanggang di atas kompor.",
+            "harga"     : 45000,
+            "gambar"    : "bulgogi.jpg"
+        },
+
+        {
+            "kategori"  : "<b>foods</b>",
+            "nama"      : "Go Indomie",
+            "deskripsi" : "Mie yang disajikan dengan penuh kasih sayang ini rasanya kaya akan Indonesia.",
+            "harga"     : 25000,
+            "gambar"    : "indomie.jpg"
+        }
+    ]
+}
